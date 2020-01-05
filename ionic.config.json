@@ -1,5 +1,7 @@
 {
-  "name": "mobile-user-rebuild",
-  "integrations": {},
+  "name": "Zap To Buy",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

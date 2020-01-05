@@ -1,0 +1,10 @@
+{
+    "env": {
+        "name": "deploy",
+        "production": false
+    },
+    "apiEndpoints": {
+        "metadata": "http://18.224.44.19:8080/imagesvc",
+        "tesselate": "http://3.135.192.115:5500"
+    }
+}
